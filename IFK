@@ -1,1 +1,1 @@
-=countif('HoH Transcript Paige''s Code'!$A$2:$L$180, B292)+countif('GU Transcript Paige''s Code'!$B$2:$L$188, B292)+countif('TDI Transcript Paige''s Code'!$B$2:$I$208, B292)
+=countif('HoH Transcript Paige''s Code'!$B$2:$N$180, B292)+countif('GU Transcript Paige''s Code'!$B$2:$L$188, B292)+countif('TDI Transcript Paige''s Code'!$B$2:$L$208, B292)
